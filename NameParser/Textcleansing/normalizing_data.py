@@ -1,6 +1,6 @@
 import re
 
-email = "Kuehnlenz.Daniel@swm.de"
+email = "Kuehnlenz.Daniel@dea.de"
 email_list = ["(null)", "(null)", "Kräft.Ingo@swm.de", "(null)", "Kuehnlenz.Daniel@swm.de", 'jordan.moritz@sawm.com.de']
 phone = "172/(282)96-7-28"
 
